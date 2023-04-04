@@ -1,8 +1,4 @@
 
-
----
-About :
-====
 Introduction:
 -----
 This is an instructor -led course by MITx provided on edx.org. It is an introductory course about Computer science and programming using python as a tool.Instead of focusing on
