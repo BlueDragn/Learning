@@ -16,11 +16,15 @@ https://www.edx.org/course/introduction-to-computer-science-and-programming-7
 
 
 ---
-Exercises:
+Certificate of Completion:
 ====
+verification link : https://courses.edx.org/certificates/a9f54389309d437a95237abac012f243
 
 
 
+
+
+![Screenshot from 2023-04-04 20-20-10](https://user-images.githubusercontent.com/76735748/229831297-5ac16e03-ca0d-4e04-91d9-b32479658228.png)
 
 
 
