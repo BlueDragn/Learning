@@ -11,7 +11,7 @@ This repository serves as a central hub for storing information about the comput
 
 ## Python
 
-### Course 1: Course Name
+### [Course 1: Course Name](https://example.com/course1)
 
 - **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
 - **Status:** Ongoing / Completed
@@ -22,7 +22,7 @@ This repository serves as a central hub for storing information about the comput
 - **Progress:**
   - Keep track of completed lessons, assignments, or modules.
 
-### Course 2: Course Name
+### [Course 2: Course Name](https://example.com/course2)
 
 - **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
 - **Status:** Ongoing / Completed
@@ -35,7 +35,7 @@ This repository serves as a central hub for storing information about the comput
 
 ## Data Structures and Algorithms
 
-### Course 1: Course Name
+### [Course 1: Course Name](https://example.com/course3)
 
 - **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
 - **Status:** Ongoing / Completed
@@ -46,7 +46,7 @@ This repository serves as a central hub for storing information about the comput
 - **Progress:**
   - Keep track of completed lessons, assignments, or modules.
 
-### Course 2: Course Name
+### [Course 2: Course Name](https://example.com/course4)
 
 - **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
 - **Status:** Ongoing / Completed
@@ -59,7 +59,7 @@ This repository serves as a central hub for storing information about the comput
 
 ## Operating System
 
-### Course 1: Course Name
+### [Course 1: Course Name](https://example.com/course5)
 
 - **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
 - **Status:** Ongoing / Completed
@@ -70,7 +70,7 @@ This repository serves as a central hub for storing information about the comput
 - **Progress:**
   - Keep track of completed lessons, assignments, or modules.
 
-### Course 2: Course Name
+### [Course 2: Course Name](https://example.com/course6)
 
 - **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
 - **Status:** Ongoing / Completed
@@ -83,10 +83,4 @@ This repository serves as a central hub for storing information about the comput
 
 ## Computer Networks
 
-### Course 1: Course Name
-
-- **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
-- **Status:** Ongoing / Completed
-- **Resources:**
-  - List the textbooks, online tutorials, or other study materials used for this course.
-- **Notes
+### [Course 1: Course Name](https://example.com
