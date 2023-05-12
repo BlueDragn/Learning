@@ -11,7 +11,7 @@ This repository serves as a central hub for storing information about the comput
 
 ## Python
 
-### [Course 1: Course Name](https://example.com/course1)
+### [Course 1: Course Name](https://github.com/BlueDragn/online-courses/tree/main/Computer_Science/Python/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python)
 
 - **Course Description:** Briefly describe the course content, objectives, and learning outcomes.
 - **Status:** Ongoing / Completed
