@@ -17,7 +17,7 @@ The purpose of this repository is to document my journey of learning and to shar
 ## ✔️ Completed Courses
 
 ### Python
-- **Course Name:** [Name of course](Link to course)
+- **Course Name:** [MIT Python](https://github.com/BlueDragn/online-courses/tree/main/Computer_Science/Python)
 - **Time-line:** Date of starting and expected completion date
 - **More details:** A brief description of the course and what you hope to achieve from it.
 
