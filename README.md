@@ -15,6 +15,10 @@ The purpose of this repository is to document my journey of learning and to shar
 - [Contact](#contact)
 
 ## ✔️ Completed Courses
+### ML & AI 
+- **Course Name:** [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
+- **Time-line:** May 01 - May 24
+- **More details:** Introductory level Course.
 
 ### Python
 - **Course Name:** [MIT Python](https://github.com/BlueDragn/online-courses/tree/main/Computer_Science/Python)
